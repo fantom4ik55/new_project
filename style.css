@@ -137,7 +137,7 @@ body {
 /* ------------------------------------------------------------------------ */
 
 .right_menu {
-    position: fixed;
+    position: sticky;
     width: 232px;
     height: 634px;
     background: rgb(255, 255, 255);
