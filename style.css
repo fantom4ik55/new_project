@@ -145,6 +145,7 @@ body {
     right: -232px;
     transition: right 0.8s;
     z-index: 10;
+    box-shadow: -6px 9px 9px rgba(238, 113, 158, 0.2);
 }
  
 
