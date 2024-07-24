@@ -142,10 +142,10 @@ body {
     height: 634px;
     background: rgb(255, 255, 255);
     top: 75px;
-    right: -234px;
+    right: -232px;
     transition: right 0.8s;
     z-index: 10;
-    box-shadow: -8px 1px 8px rgba(0, 0, 0, 0.71);
+    box-shadow: -3px -3px 8px rgba(0, 0, 0, 0.71);
 }
  
 
